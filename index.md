@@ -7,13 +7,13 @@ page_sections:
   block: header-2
   logo: "/uploads/2022/01/07/asset-3-2x.png"
   navigation:
-  - link: "#responsive"
-    link_text: Our Services
   - link: "#blocks"
     link_text: About Us
+  - link: "#responsive"
+    link_text: Our Services
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    button_text: Book a Cab
 - template: hero-banner-w-image
   block: hero-2
   slug: features
