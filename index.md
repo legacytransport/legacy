@@ -7,14 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2022/01/07/asset-3-2x.png"
   navigation:
-  - link: "/"
-    link_text: Ubuild
-  - link: "#swap"
-    link_text: Swap
-  - link: "#customize"
-    link_text: Customize
   - link: "#responsive"
-    link_text: Responsive
+    link_text: Our Services
   - link: "#blocks"
     link_text: Blocks
   cta:
