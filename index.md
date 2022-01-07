@@ -29,7 +29,7 @@ page_sections:
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: Book a Cab
+    button_text: Our Services
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
