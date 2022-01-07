@@ -23,9 +23,9 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   slug: features
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: We are,<br><strong>LEGACY</strong>
+  content: 'We cater for <strong><span style="text-decoration: underline;">all</span></strong>
+    your transportation needs'
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
