@@ -3,9 +3,6 @@ layout: blocks
 title: ''
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: simple-header
-  block: header-3
-  logo: ''
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2022/01/07/asset-3-2x.png"
@@ -17,6 +14,9 @@ page_sections:
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Book a Cab
+- template: simple-header
+  block: header-3
+  logo: ''
 - template: hero-banner-w-image
   block: hero-2
   slug: features
