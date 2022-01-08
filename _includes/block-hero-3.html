@@ -1,0 +1,21 @@
+<section
+  class="block block-hero-3"
+  {%
+  if
+  section.background_image
+  %}
+  style="background-image: url('{{ section.background_image | relative_url }}')"
+  {%
+  endif
+  %}
+>
+  <div class="container">
+    <h1><span class="light">{{ section.heading }}</span></h1>
+    <p>{{ section.content }}</p>
+    {% if section.cta and section.cta.enabled == true %}
+    <a class="button primary inverted" href="{{ section.cta.url }}"
+      >{{ section.cta.button_text }}</a
+    >
+    {% endif %}
+  </div>
+</section>
