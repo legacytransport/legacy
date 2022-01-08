@@ -25,6 +25,7 @@ page_sections:
     enabled: true
     url: ''
     button_text: Our Services
+  background_image: "/uploads/2022/01/08/pexels-torsten-dettlaff-70912.jpg"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
