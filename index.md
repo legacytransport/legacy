@@ -14,6 +14,9 @@ page_sections:
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Book a Cab
+- template: text-only-hero-banner
+  block: hero-1
+  heading: We are, <strong>Legacy</strong>
 - template: hero-banner-w-image
   block: hero-2
   slug: features
@@ -25,9 +28,9 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: Our Services
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+    image: ''
+    alt_text: ''
+  background_image: "/uploads/2022/01/08/pexels-torsten-dettlaff-70912.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
