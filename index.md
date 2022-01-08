@@ -14,9 +14,9 @@ page_sections:
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Book a Cab
-- template: simple-header
-  block: header-3
-  logo: ''
+- template: text-only-hero-banner
+  block: hero-1
+  heading: We are, <strong>Legacy</strong>
 - template: hero-banner-w-image
   block: hero-2
   slug: features
