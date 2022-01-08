@@ -32,5 +32,6 @@ fields:
   - simple-footer
   - 4-column-footer
   - text-and-cta-hero-banner
+  - text-only-hero-banner - Copy
 pages:
 - index.md
