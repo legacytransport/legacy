@@ -2,15 +2,15 @@
 label: text-and-cta-hero-banner
 hide_body: false
 fields:
-  - type: text
-    hidden: true
-    label: block
-    name: block
-    default: hero-3
-  - type: textarea
-    config:
-      wysiwyg: true
-      schema:
-        format: html
-    label: Headline
-    name: heading
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: hero-3
+- type: textarea
+  config:
+    wysiwyg: true
+    schema:
+      format: html
+  label: Headline
+  name: heading
