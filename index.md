@@ -17,6 +17,14 @@ page_sections:
 - template: text-only-hero-banner
   block: hero-1
   heading: We are, <strong>Legacy</strong>
+- template: text-and-cta-hero-banner
+  block: hero-3
+  heading: We are, <strong>Legacy</strong>
+  content: This is a test content section
+  cta:
+    enabled: true
+    url: ''
+    button_text: Our Services
 - template: hero-banner-w-image
   block: hero-2
   slug: features
