@@ -27,7 +27,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2022/01/08/pexels-torsten-dettlaff-70912.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
