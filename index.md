@@ -26,7 +26,7 @@ page_sections:
     button_text: Our Services
   image:
     image: ''
-    alt_text: Product Shot
+    alt_text: ''
   background_image: "/uploads/2022/01/08/pexels-torsten-dettlaff-70912.jpg"
 - template: content-feature
   block: feature-1
