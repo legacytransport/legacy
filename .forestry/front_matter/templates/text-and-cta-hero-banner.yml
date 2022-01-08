@@ -1,5 +1,5 @@
 ---
-label: text-only-hero-banner
+label: text-and-cta-hero-banner
 hide_body: false
 fields:
   - type: text
