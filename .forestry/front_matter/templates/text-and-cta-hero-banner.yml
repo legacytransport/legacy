@@ -24,3 +24,25 @@ fields:
       format: markdown
   label: Content
   description: Brief Content
+- name: cta
+  type: field_group
+  config: {}
+  fields:
+  - name: enabled
+    type: boolean
+    label: Enabled
+    description: CTA Enabled
+  - name: url
+    type: text
+    config:
+      required: false
+    label: url
+    description: URL to CTA
+  - name: button_text
+    type: text
+    config:
+      required: false
+    label: Button Text
+    description: CTA Button Text
+  label: Call-to-action
+  description: Call to Action
