@@ -35,3 +35,4 @@ fields:
   - text-only-hero-banner - Copy
 pages:
 - index.md
+- index_dev.md
